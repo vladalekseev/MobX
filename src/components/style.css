@@ -1,0 +1,15 @@
+.active {
+    color: #f22;
+}
+button {
+    display: block;
+    width: 20%;
+    margin: 10px auto;
+    padding: 10px 5px;
+    border-radius: 5px;
+    background-color: #bec3d2;
+    outline: none;
+}
+.aside {
+    margin-top: 50px;
+}
